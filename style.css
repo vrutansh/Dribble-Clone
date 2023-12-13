@@ -199,9 +199,9 @@ html,body{
     width: 400px;
     border-radius: 10px;
     /* background-color: aquamarine; */
-    overflow: hidden;
+    /* overflow: hidden; */
     display: inline-block;
-    margin: 15px;
+    margin: 35px;
     
 }
 
@@ -215,4 +215,10 @@ html,body{
     height: 100%;
     width: 100%;
     object-fit: cover;
+}
+
+.box .boxbotttom{
+    height: 50%;
+    width: 100%;
+    background-color: blueviolet;
 }
