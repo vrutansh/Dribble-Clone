@@ -217,8 +217,9 @@ html,body{
     object-fit: cover;
 }
 
-.box .boxbotttom{
+.box .boxbottom{
     height: 50%;
     width: 100%;
     background-color: blueviolet;
+    z-index: 999;
 }
